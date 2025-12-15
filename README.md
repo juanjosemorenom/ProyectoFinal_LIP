@@ -1,6 +1,6 @@
 Asistente de juego del ahorcado: 
 - El programa consiste en un asistente de juego del Ahorcado que ejecuta una Interfaz Gráfica de Usuario (GUI) mediante el uso de widgets de la librería de Tkinter.
-- Además, permitiendo al usuario seleccionar categoría (Países del mundo, Animales del mundo o ¡FIESTA!), nivel de dificultad (Fácil, Medio, Díficil o Extremo) y modalidad (Rondas o ¡Muerte súbita!).
-- Así como guarda las estadísticas de juego del usuario mediante la persistencia de datos con el uso de archivos .JSON y .TXT.
+- Además, permite al usuario seleccionar categoría (Países del mundo, Animales del mundo o ¡FIESTA!), nivel de dificultad (Fácil, Medio, Díficil o Extremo) y modalidad (Rondas o ¡Muerte súbita!).
+- También guarda las estadísticas de juego del usuario mediante la persistencia de datos con el uso de archivos .JSON y .TXT.
 
 Durante el desarrollo de este programa aprendí a crear una interfaz gráfica de usuario con los widgets de Tkinter, como Label, TopLevel, Canvas, Button, RadioButton, Frame y LabelFrame; de esa manera, ya puedo hacer programas que acepten entradas por medio de una interfaz más sofisticada, en lugar de la terminal o PowerShello. Asimismo, ya sé cómo estructurar mis códigos de programa como programación funcional, para no repetir múltiples veces bloques de código que me pueden servir más de una vez. Por último, pero no menos importante, ya sé cómo manejar los errores que van surgiendo en el proceso de codificación, ya sea con los bloques "try-except", o depurando para encontrar errores de lógica.
